@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm KeeTaek from South Korea, a computer engineering student interested in artificial intelligence and robotics.
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=samscientist&theme=dark&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 <!--
