@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=samscientist&theme=dark&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **samscientist/samscientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
